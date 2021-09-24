@@ -12,6 +12,12 @@ body {
     overflow: hidden;
     margin: 0;
   }
+  .dogebot {
+    text-align: center;
+    border-radius: 50%;
+    width: 300px;
+    height: auto;
+  }
 
   .btn {
     background-color: #ffffff;
@@ -68,11 +74,4 @@ body {
     border-radius: 10px;
     color: steelblue;
     text-align: center;
-  }
-
-  .dogebot {
-    text-align: center;
-    border-radius: 50%;
-    width: 300px;
-    height: auto;
   }
