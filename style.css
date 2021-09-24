@@ -69,3 +69,10 @@ body {
     color: steelblue;
     text-align: center;
   }
+
+  .dogebot {
+    text-align: center;
+    border-radius: 50%;
+    width: 300px;
+    height: auto;
+  }
